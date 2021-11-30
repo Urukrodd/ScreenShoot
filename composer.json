@@ -1,0 +1,5 @@
+{
+    "require": {
+        "screenshotmachine/screenshotmachine-php": "^2.0"
+    }
+}

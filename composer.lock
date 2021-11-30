@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "48792686b466a2aff5e5a0fd84ad4196",
+    "packages": [
+        {
+            "name": "screenshotmachine/screenshotmachine-php",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/screenshotmachine/screenshotmachine-php.git",
+                "reference": "8d2b08b7561c7818c954f181babed37d5883d754"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/screenshotmachine/screenshotmachine-php/zipball/8d2b08b7561c7818c954f181babed37d5883d754",
+                "reference": "8d2b08b7561c7818c954f181babed37d5883d754",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Captures website screenshot and converts website to PDF using Screenshot machine - online website screenshot generator and website to PDF converter.",
+            "homepage": "https://github.com/screenshotmachine/screenshotmachine-php",
+            "keywords": [
+                "Thumbnails",
+                "capture",
+                "headless",
+                "html2pdf",
+                "htmltopdf",
+                "pdf",
+                "screenshot",
+                "screenshots",
+                "snapshot",
+                "thumbnail",
+                "webpage",
+                "website"
+            ],
+            "support": {
+                "issues": "https://github.com/screenshotmachine/screenshotmachine-php/issues",
+                "source": "https://github.com/screenshotmachine/screenshotmachine-php/tree/2.0.0"
+            },
+            "time": "2019-08-26T08:53:44+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
